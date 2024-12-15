@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.11.11 (sftp://mlc1@10.188.220.26:22/mnt/envs/autotimes/bin/python3)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.11 (sftp://mlc1@10.188.220.26:22/mnt/envs/autotimes/bin/python3)" project-jdk-type="Python SDK" />
+</project>
